@@ -2,7 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mssroxy&label=Profile%20views&color=0e75b6&style=flat" alt="mssroxy" /> </p>
 
-### About me in code 
 
 Hi 👋, I'm Roxy Solano
 <p>A passionate frontend developer</p>
