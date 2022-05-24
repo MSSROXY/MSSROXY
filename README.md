@@ -19,7 +19,9 @@ Here are some ideas to get you started:
 
 ### About me in code 
 
-I am Roxy Solano
+Hi 👋, I'm Roxy Solano
+A passionate frontend developer
+<p>📍Región Metropolitana, Santiago </p>
 
 ```javascript
 const roxy = {
