@@ -1,4 +1,4 @@
-# Hello world! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> </h2>
+# Hello world! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="10px"> </h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mssroxy&label=Profile%20views&color=0e75b6&style=flat" alt="mssroxy" /> </p>
 
